@@ -9765,3 +9765,17 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+nav {
+   background-color: white !important;
+}
+
+.hero {
+   padding-top: 80px;
+}
+
+@media only screen and (max-width: 991px) {
+   .hero {
+      padding-top: 8px;
+   }
+}
